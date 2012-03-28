@@ -1,0 +1,2 @@
+guard :hogan, input: 'assets/templates/src', output: 'assets/templates/compiled/templates.js'
+
